@@ -1,7 +1,12 @@
-date,type,subtype,brand,size
+date,type,subtype,brand,size,notes
 2022-01-01,shoe,sneaker,underarmor,47.5
 2024-11-01,jacket,,boriken,L
 2024-01-01,shoe,barefoot,merrell,47
 2020-01-01,shoe,running,ascics,49
 2022-01-01,underwear,sport_boxer,decathlon,L
-2022-01-01,socks,black low rise,kiprun,43-46
+2022-01-01,socks,black low rise,kiprun,43-46,intentinally one size smaller since tight fit prevents blisters
+2025-01-21,underwear,cotton_boxer,decathlon,M
+2023-01-01,shirt,tight_fitness,decathlon,L,after washing these are now a bit small in 2024
+2024-01-01,jeans,sports baggy Kiprun Dry 500,decathlon,W32L33,after washing tight around calves
+2025-02-01,jeans,suit pants,lefties,32,a bit short
+2025-02-01,jeans,568 loose straight,levis,31x32
